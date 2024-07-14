@@ -1,6 +1,5 @@
-# text-expand
-text-expand ahk script
- This is very simple text-expand script for ahk v1.
+# text expand
+This is very simple text-expand script for ahk v1.
 
 1. Create in folder with this script some text files. Give text files names as tokens you whant to type.
 2. Fill content of file with desired text that token should expand to.
